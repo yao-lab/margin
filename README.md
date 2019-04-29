@@ -7,3 +7,5 @@
 
 Yifei HUANG's CIFAR10 data with random perturbation can be found at 
 [https://drive.google.com/drive/u/0/folders/1QBq-QMX2tyMuB2KCDLYEsXSHbBSX2AT1](Google cloud link)
+
+Weizhi ZHU's experiments using power method of spectral normalization can be found at [/ZHUWeizhi_exp/] (Repo)
